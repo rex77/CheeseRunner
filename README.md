@@ -38,4 +38,4 @@ Restful API
 
 역할분담:
 Rexa: Android App, Project Management
-SB.J: Backend Application, Server, DataBase
+changeme: Backend Application, Server, DataBase
